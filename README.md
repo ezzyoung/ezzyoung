@@ -3,8 +3,6 @@ Welcome to my profile 😄 This is basically an overview of my projects.
 
 I am interested in AI & Languages ✨ 
 
-## 🎓 Education
-B.S. at HUFS ~2026
 
 ## 🖥 Projects
 - Large Multimodal Image Creation Project
