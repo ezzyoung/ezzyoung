@@ -1,12 +1,15 @@
 ## 👋 Hi there
 Welcome to my profile 😄 This is basically an overview of my projects.
+
 I strive to be the perfect version of myself:) 
 
 I am interested in AI & Languages ✨ 
 
 ✨ HUFS English Literature & Culture, AI Convergence Double Major
-✨ Seogang AI Lab Study Intern 2025.07-2025.08
-✨ UNIST AI LAB 2026.01-2026.08 Internship
+
+✨ Sogang AI Lab Study Intern 2025.07-2025.08
+
+✨ UNIST AI LAB 2026.01-2026.08 Internship (Hybrid)
 
 ## 📚 Stacks
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
