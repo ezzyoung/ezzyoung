@@ -9,7 +9,7 @@ I am interested in AI & Languages ✨
 
 ✨ Sogang AI Lab Study Intern 2025.07-2025.08
 
-✨ UNIST AI LAB 2026.01-2026.08 Internship (Hybrid)
+✨ UNIST AIGS LAB 2026.01 ~ Internship (Hybrid)
 
 ## 📚 Stacks
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
