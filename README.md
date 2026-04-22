@@ -3,7 +3,7 @@ Welcome to my profile 😄 This is basically an overview of my projects.
 
 I strive to be the perfect version of myself:) 
 
-I am interested in AI & Languages ✨ 
+Incoming AI M.S Student Specializing in Agentic LLM AI ✨
 
 ## ✨ RDM Project (2025.01 - 2025.02) 
 
